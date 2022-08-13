@@ -1,0 +1,26 @@
+{
+  "editor.fontSize": 24,
+  "window.zoomLevel": 1.1,
+  "workbench.activityBar.visible": true,
+  "workbench.statusBar.visible": true,
+  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontWeight": "500",
+  "terminal.integrated.fontWeightBold": "900",
+  "editor.formatOnSave": true,
+  "tailwindCSS.hovers": true,
+  "tailwindCSS.emmetCompletions": false,
+  "tailwindCSS.classAttributes":[
+    "class",
+    "className",
+    "ngClass"
+  ],
+  "files.associations": {
+  "*.css": "tailwindcss"
+},
+"editor.quickSuggestions": {
+  "strings": true
+},
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html"
+  }
+}
